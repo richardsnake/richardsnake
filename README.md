@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardsnake
 - 👀 I’m interested in software development and architerure. Also on Cloud, Cybersecurity an IA
-- 🌱 I’m currently learning about Cybersecurity
-- 💞️ I’m looking to collaborate on opensource projects such as Fedora and ROS
+- 🌱 I’m currently learning about IA and Cybersecurity
+- 💞️ I’m looking to learn about opensource projects 
 - 📫 How to reach me .. feel free contact me via email at abanto4@gmail.com
 
 <!---
